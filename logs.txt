@@ -1,0 +1,47 @@
+Getting links from url - https://www.sqlink.com/career
+ Total careers (links) - 9
+ Careers: פיתוח תוכנה, פיתוח WEB, סיסטם / DEVOPS, בדיקות ואוטומציה, Cyber / אבטחת מידע, מערכות מידע ותמיכה, פיתוח חומרה, בוגרים ויחידות ..., BI/DBA/BIG DATA
+
+
+ [ פיתוח תוכנה ] - Getting data
+ [ פיתוח תוכנה ] - WEB Pages: 130, Jobs: 2597
+ [ פיתוח תוכנה ] - Execution time: 8.028 seconds 
+
+ [ פיתוח WEB ] - Getting data
+ [ פיתוח WEB ] - WEB Pages: 67, Jobs: 1331
+ [ פיתוח WEB ] - Execution time: 3.578 seconds 
+
+ [ סיסטם / DEVOPS ] - Getting data
+ [ סיסטם / DEVOPS ] - WEB Pages: 87, Jobs: 1736
+ [ סיסטם / DEVOPS ] - Execution time: 5.055 seconds 
+
+ [ בדיקות ואוטומציה ] - Getting data
+ [ בדיקות ואוטומציה ] - WEB Pages: 57, Jobs: 1136
+ [ בדיקות ואוטומציה ] - Execution time: 2.921 seconds 
+
+ [ Cyber / אבטחת מידע ] - Getting data
+ [ Cyber / אבטחת מידע ] - WEB Pages: 31, Jobs: 603
+ [ Cyber / אבטחת מידע ] - Execution time: 1.78 seconds 
+
+ [ מערכות מידע ותמיכה ] - Getting data
+ [ מערכות מידע ותמיכה ] - WEB Pages: 127, Jobs: 2530
+ [ מערכות מידע ותמיכה ] - Execution time: 6.895 seconds 
+
+ [ פיתוח חומרה ] - Getting data
+ [ פיתוח חומרה ] - WEB Pages: 18, Jobs: 353
+ [ פיתוח חומרה ] - Execution time: 1.297 seconds 
+
+ [ בוגרים ויחידות ... ] - Getting data
+ [ בוגרים ויחידות ... ] - WEB Pages: 5, Jobs: 99
+ [ בוגרים ויחידות ... ] - Execution time: 0.694 seconds 
+
+ [ BI/DBA/BIG DATA ] - Getting data
+ [ BI/DBA/BIG DATA ] - WEB Pages: 47, Jobs: 930
+ [ BI/DBA/BIG DATA ] - Execution time: 2.649 seconds 
+
+ 
+
+I've been scanned: 
+Careers: 9, WEB Pages: 579, Jobs: 11315
+
+ Execution time: 33.441 seconds
