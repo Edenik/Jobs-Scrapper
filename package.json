@@ -1,0 +1,23 @@
+{
+  "name": "jobs-scrapper",
+  "version": "1.0.0",
+  "description": "This project is a scraper that can read random names from -\r *[fakenamegenerator](https://www.fakenamegenerator.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edenik/Jobs-Scrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edenik/Jobs-Scrapper/issues"
+  },
+  "homepage": "https://github.com/Edenik/Jobs-Scrapper#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
